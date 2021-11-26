@@ -8,17 +8,19 @@ menutitle: CV
 -->
 ## Current Position
 
-University of Rochester, Graduate Student and Teaching Assistant
+__University of Rochester__, Graduate Student and Teaching Assistant
 
 ## Education
 
 `2020-Present`
 __University of Rochester__
 PhD Philosophy (In Progress)
+AOS: Social/Political Philosophy
+AOC: Feminism, Epistemology, Education
 
 `2018-2020`
 __Texas Tech University__
-MA Philosophy 
+MA Philosophy, Ethics Certificate 
 
 `2012-2016`
 __University of Central Oklahoma__
