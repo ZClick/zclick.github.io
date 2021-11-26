@@ -1,5 +1,4 @@
 ---
-layout: presentation-post-index
 menutitle: Conferences and Presentations
 menuorder: 2
 ---
