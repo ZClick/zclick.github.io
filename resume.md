@@ -1,7 +1,7 @@
 ---
 layout: resume
 menuorder: 3
-menutitle: Resume
+menutitle: CV
 ---
 ## Currently
 
@@ -9,17 +9,21 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2020-Present`
+__University of Rochester__
+PhD Philosophy (In Progress)
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2018-2020`
+__Texas Tech University__
+MA Philosophy 
 
-## Awards
+`2012-2016`
+__University of Central Oklahoma__
+BA Humanities, Summa Cum Laude 
 
-`2012`
+## Awards & Honors
+
+`Jerry Fox Jr. Memorial Scholar, Texas Tech University`
 Name of Award, Organization 
 
 ## Publications
