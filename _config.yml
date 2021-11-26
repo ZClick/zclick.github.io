@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Zachary Zee Click (they/them)
-  avatar: bio-photo.jpg
+  avatar: https://avatars.githubusercontent.com/u/95099933?s=400&u=949d55b0af5eac07240b3d1f79141563b4234366&v=4
   bio: "I am a graduate student in the PhD program at the University of Rochester. My research falls broadly under the label of Social/Political Philosophy. I have especial interest in the philosophy of punishment, philosophy of law, feminist philosophy, queer theory, the ethics of belief, and voter ignorance."
   email: zcrouch@ur.rochester.edu
   # Do not include the @ symbol in your Twitter username
