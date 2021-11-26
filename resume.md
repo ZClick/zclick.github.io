@@ -5,7 +5,7 @@ menutitle: CV
 ---
 ## Currently
 
-Current Position Description
+University of Rochester, Graduate Student and Teaching Assistant
 
 ## Education
 
@@ -21,15 +21,21 @@ MA Philosophy
 __University of Central Oklahoma__
 BA Humanities, Summa Cum Laude 
 
+
+<!--
 ## Awards & Honors
 
-`Jerry Fox Jr. Memorial Scholar, Texas Tech University`
-Name of Award, Organization 
+`2020`
+Jerry Fox Jr. Memorial Scholar, Texas Tech University 
+-->
 
+<!-- (Delete these before/after arrows to reactivate)
 ## Publications
+-->
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
+<!--
 ### Journals
 
 `1994`
@@ -66,11 +72,10 @@ __Current Job Title__, Current Employer
 
 - Task
 - Task
+-->
 
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+### Footer
+Last updated: Nov 2021
 
 
