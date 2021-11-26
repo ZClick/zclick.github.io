@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: All Blog Posts
-menutitle: Blog
+title: Professional Memberships
+menutitle: Memberships
 menuorder: 4
 ---
