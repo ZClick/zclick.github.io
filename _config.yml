@@ -6,7 +6,7 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Zachary Zee Click
+  name: Zachary Zee Click (they/them)
   avatar: bio-photo.jpg
   bio: "I am a graduate student in the PhD program at the University of Rochester. My research falls broadly under the label of Social/Political Philosophy. I have especial interest in the philosophy of punishment, philosophy of law, feminist philosophy, queer theory, the ethics of belief, and voter ignorance."
   email: zcrouch@ur.rochester.edu
@@ -42,7 +42,7 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
+highlight-color: '#ad00cc'
 lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
