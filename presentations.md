@@ -1,5 +1,6 @@
 ---
 menutitle: Conferences and Presentations
+title: Conferences and Presentations
 menuorder: 2
 ---
 __31st Annual _Association of Professional and Practical Ethics_ (APPE) Intl. Conf.__ 
