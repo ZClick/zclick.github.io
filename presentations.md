@@ -2,8 +2,6 @@
 layout: presentation-post-index
 menutitle: Conferences and Presentations
 menuorder: 2
-excerpt: "Recent Presentations"
----
 
 __31st Annual _Association of Professional and Practical Ethics_ (APPE) Intl. Conf.__ "Wealth and Punishment"
 
