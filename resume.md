@@ -15,8 +15,6 @@ __University of Rochester__, Graduate Student and Teaching Assistant
 `2020-Present`
 __University of Rochester__
 PhD Philosophy (In Progress)
-AOS: Social/Political Philosophy
-AOC: Feminism, Epistemology, Education
 
 `2018-2020`
 __Texas Tech University__
