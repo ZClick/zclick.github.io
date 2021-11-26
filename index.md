@@ -14,4 +14,4 @@ __Current Projects:__
 
 __Contact:__
 
-- You can e-mail me at zcrouch@ur.rochester.edu
+- zcrouch@ur.rochester.edu
