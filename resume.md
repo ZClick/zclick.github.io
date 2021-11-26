@@ -3,7 +3,10 @@ layout: resume
 menuorder: 3
 menutitle: CV
 ---
+<!--
 ## Currently
+-->
+## Current Position
 
 University of Rochester, Graduate Student and Teaching Assistant
 
@@ -74,8 +77,8 @@ __Current Job Title__, Current Employer
 - Task
 -->
 
-
+<!--
 ### Footer
 Last updated: Nov 2021
-
+-->
 
