@@ -5,7 +5,7 @@ menutitle: Home
 menuorder: 1
 ---
 
-##Current Projects
+**Current Projects:
 
 - "Wealth and Punishment"
 - "Required Reading: Literacy and Democratic Values"
